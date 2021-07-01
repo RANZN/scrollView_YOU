@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">scrollView YOU</string>
+    <string name="ranjan">Ranjan</string>
+    <string name="last_name">Last Name</string>
+    <string name="prakash">Prakash</string>
+    <string name="first_name">First Name</string>
+    <string name="add_new_employee">Add New Employee</string>
+    <string name="work_email">Work Email</string>
+
+    <string-array name="title_options">
+        <item>Software Dev</item>
+        <item>Android Dev</item>
+        <item>Security Guard</item>
+        <item>Water Boy</item>
+        <item>Internet</item>
+        <item>HR</item>
+        <item>Business</item>
+        <item>Game dev</item>
+        <item>Web Dev</item>
+    </string-array>
+</resources>
